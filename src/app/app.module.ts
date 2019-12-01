@@ -13,12 +13,14 @@ import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatInputModule} from '@angular/material/input';
 import {MatCardModule} from '@angular/material/card';
 
+/*Constantes pour le formulaire*/
 const MaterialComponents = [
     MatButtonModule,
     MatFormFieldModule,
     MatInputModule,
     MatCardModule
 ];
+
 
 @NgModule({
     declarations: [
